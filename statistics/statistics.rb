@@ -1,5 +1,4 @@
 # statistics.rb
-# @data = [1, 2, 34, 68, 59, 34, 7, 93, 22, 89]
 class Statistics
   def initialize(numbers)
     @numbers = numbers
